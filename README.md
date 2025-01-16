@@ -29,6 +29,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### Связаться со мной📮
+FominaaKsenia@yandex.ru 
+
+<!--
 ### Связь со мной
 
 <a href="https://t.me/https://t.me/FomKsenon">
@@ -52,7 +56,7 @@
       <a href="https://github.com/KsFomina"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KsFomina&theme=github_dark" alt="Статистика на GitHub" /></a>
     </td></tr>
 </table>
-
+-->
 
 
 <!--
