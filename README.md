@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Kseniy 👋
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL" width="30" height="30"/>
 <!--
 **KsFomina/KsFomina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
