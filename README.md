@@ -1,4 +1,4 @@
-## Hi there, I'm Kseniy 👋
+## Привет, я Ксения 👋
 
 Я Full Stack-разработчик из Череповца.
 
@@ -32,6 +32,16 @@
 ### Связаться со мной📮
 FominaaKsenia@yandex.ru 
 
+### My stat
+
+<table>
+  <tr><td>
+    <a href="https://github.com/KsFomina"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KsFomina" alt="Профиль на GitHub" /></a>
+  </td><td>
+      <a href="https://github.com/KsFomina"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KsFomina" alt="Статистика на GitHub" /></a>
+    </td></tr>
+</table>
+
 <!--
 ### Связь со мной
 
@@ -47,15 +57,6 @@ FominaaKsenia@yandex.ru
   <img src="https://img.shields.io/badge/Яндекс_Почта-4169E1?style=for-the-badge&logo=yandex&logoColor=white" alt="Яндекс Почта" />
 </a>
 
-### My stat
-
-<table>
-  <tr><td>
-    <a href="https://github.com/KsFomina"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KsFomina&theme=github_dark" alt="Профиль на GitHub" /></a>
-  </td><td>
-      <a href="https://github.com/KsFomina"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KsFomina&theme=github_dark" alt="Статистика на GitHub" /></a>
-    </td></tr>
-</table>
 -->
 
 
