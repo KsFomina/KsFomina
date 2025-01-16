@@ -8,7 +8,7 @@
 
 ### My stat
 
-![](https:/github-profile-summary-cards.vercel.app/api/cards/stats?KsFomina=vn7n24fzkq&theme=github_dark)
+<img src="https:/github-profile-summary-cards.vercel.app/api/cards/stats?KsFomina=vn7n24fzkq&theme=github_dark"/>
 
 
 <!--
