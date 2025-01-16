@@ -1,9 +1,17 @@
 ## Hi there, I'm Kseniy 👋
 
-Я full-stack разработчик из Череповца.
+Я Full Stack-разработчик из Череповца.
+
+✨Я интересуюсь
+<ul>
+  <li>Backend-разработка</li>
+  <li>Мобильная разработка</li>
+  <li>Web-разработка</li>
+  <li>Работа с данными</li>
+</ul>
+
 
 ### Languages and Tools:
-
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -21,9 +29,30 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### Связь со мной
+
+<a href="https://t.me/https://t.me/FomKsenon">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<a href="https://vk.com/your_vk_ksenip">
+  <img src="https://img.shields.io/badge/VK-4684C9?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+</a>
+
+<a href="mailto:FominaaKsenia@yandex.ru">
+  <img src="https://img.shields.io/badge/Яндекс_Почта-4169E1?style=for-the-badge&logo=yandex&logoColor=white" alt="Яндекс Почта" />
+</a>
+
 ### My stat
 
-<img src="https:/github-profile-summary-cards.vercel.app/api/cards/stats?KsFomina=vn7n24fzkq&theme=github_dark"/>
+<table>
+  <tr><td>
+    <a href="https://github.com/KsFomina"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KsFomina&theme=github_dark" alt="Профиль на GitHub" /></a>
+  </td><td>
+      <a href="https://github.com/KsFomina"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KsFomina&theme=github_dark" alt="Статистика на GitHub" /></a>
+    </td></tr>
+</table>
+
 
 
 <!--
