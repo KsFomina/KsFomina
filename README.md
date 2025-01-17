@@ -28,6 +28,7 @@
 ![REST API](https://img.shields.io/badge/REST-API-00B5E2?style=for-the-badge&logo=rest-api&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Связаться со мной📮
 FominaaKsenia@yandex.ru 
